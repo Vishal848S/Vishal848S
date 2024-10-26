@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal848S
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c and Phython
+- 🌱 I’m currently learning JAVA and WebDevelopment
 - 💞️ I’m looking to collaborate on Any internship i can get
 - 📫 How to reach me just say my name
 
